@@ -1,0 +1,138 @@
+{
+  "party_name": "CHEGA",
+  "election_year": 2022,
+  "key_issues": [
+    {
+      "issue_name": "Family and Society",
+      "description": "CHEGA emphasizes strengthening family as a core institution and proposes creating a Ministry of Family to reinforce moral, civic, and economic aspects of family life.",
+      "proposals": [
+        {
+          "title": "Creation of the Ministry of Family",
+          "details": "Establish a dedicated ministry to oversee the reconstruction of family values across various areas of governance.",
+          "ideology_tags": ["conservative", "family_values"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Moral and Social Renewal",
+      "description": "CHEGA advocates for moral and social renewal, focusing on individual responsibility and social solidarity to combat social ills.",
+      "proposals": [
+        {
+          "title": "Promotion of Individual Responsibility",
+          "details": "Encourage personal accountability before solidarity, aimed at reducing social parasitism and promoting dignified work.",
+          "ideology_tags": ["conservative", "individual_responsibility"]
+        }
+      ]
+    },
+    {
+      "issue_name": "National Identity and Immigration",
+      "description": "CHEGA opposes policies that they believe undermine national identity and supports regulated immigration based on qualifications and labor market needs.",
+      "proposals": [
+        {
+          "title": "Regulated Immigration Policy",
+          "details": "Implement a controlled immigration system prioritizing qualifications and labor market needs, and oppose demographic replacement.",
+          "ideology_tags": ["nationalism", "immigration_control"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Economic Policy",
+      "description": "CHEGA proposes economic policies that reduce state intervention, lower taxes, and prioritize budget balance.",
+      "proposals": [
+        {
+          "title": "Reduction of State Intervention",
+          "details": "Decrease the state's role in the economy, reduce taxes, and ensure budget balance except in exceptional circumstances.",
+          "ideology_tags": ["free_market", "fiscal_responsibility"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Justice System Reform",
+      "description": "CHEGA aims to reform the justice system by increasing penalties for serious crimes and streamlining legal processes.",
+      "proposals": [
+        {
+          "title": "Harsher Penalties for Serious Crimes",
+          "details": "Increase the maximum penalty for violent crimes, terrorism, corruption, and sexual offenses against minors.",
+          "ideology_tags": ["law_and_order", "justice_reform"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Healthcare System",
+      "description": "CHEGA plans to reform the healthcare system to improve efficiency and quality, balancing public, private, and social sectors.",
+      "proposals": [
+        {
+          "title": "Healthcare System Reform",
+          "details": "Reform the national healthcare system focusing on efficiency, quality, and balanced involvement of public, private, and social sectors.",
+          "ideology_tags": ["healthcare_reform", "public_private_partnership"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Education",
+      "description": "CHEGA advocates for educational reform based on six fundamental principles to combat indiscipline, bureaucracy, and ideological indoctrination.",
+      "proposals": [
+        {
+          "title": "Reform of Basic and Secondary Education",
+          "details": "Implement six fundamental principles in education reform, focusing on discipline, reducing bureaucracy, and defending national exams.",
+          "ideology_tags": ["education_reform", "discipline"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Rural Development and Agriculture",
+      "description": "CHEGA focuses on supporting rural development and agriculture, including promoting local products and supporting family agriculture.",
+      "proposals": [
+        {
+          "title": "Support for Rural Development",
+          "details": "Incentivize the purchase of local products, support family agriculture, and improve rural infrastructure like broadband internet.",
+          "ideology_tags": ["rural_development", "agricultural_support"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Pensions and Social Security",
+      "description": "CHEGA aims to reform the social security system, promoting private initiative and ensuring no cuts to state-assured pensions.",
+      "proposals": [
+        {
+          "title": "Social Security System Reform",
+          "details": "Transition to a contributory system based on capitalization and individual savings, while opposing cuts to current pensions.",
+          "ideology_tags": ["social_security_reform", "pension_protection"]
+        }
+      ]
+    },
+    {
+      "issue_name": "National Defense",
+      "description": "CHEGA emphasizes the importance of investing in the military and honoring veterans, ensuring national sovereignty and security.",
+      "proposals": [
+        {
+          "title": "Investment in National Defense",
+          "details": "Commit to investing 2% of GDP in defense by 2024 and honor commitments to veterans and their families.",
+          "ideology_tags": ["military_investment", "national_sovereignty"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Youth Policies",
+      "description": "CHEGA focuses on empowering the youth through educational reform, job market integration, and housing support.",
+      "proposals": [
+        {
+          "title": "Empowerment of Youth",
+          "details": "Promote educational reform, provide fiscal benefits for young workers, and improve housing credit access for the youth.",
+          "ideology_tags": ["youth_empowerment", "education"]
+        }
+      ]
+    },
+    {
+      "issue_name": "Public Order and Security",
+      "description": "CHEGA advocates for strengthening public order and security, respecting police authority, and improving their working conditions.",
+      "proposals": [
+        {
+          "title": "Strengthening Public Order and Security",
+          "details": "Enhance respect for police authority, improve their working conditions, and ensure public safety and tranquility.",
+          "ideology_tags": ["public_security", "police_support"]
+        }
+      ]
+    }
+  ]
+}
