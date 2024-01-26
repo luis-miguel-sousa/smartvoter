@@ -2,7 +2,7 @@
 
 IMO, hat should be served to the knowledge base is similarly-shaped JSONs. This is an example (CHEGA just for fun!):
 
-json```
+```json
 {
   "party_name": "CHEGA",
   "key_issues": [
@@ -19,6 +19,7 @@ json```
     },
     ...
   ]
+}
 ```
 
 ## FAQ
