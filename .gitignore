@@ -163,6 +163,7 @@ cython_debug/
 # LLM-Model
 *.gguf
 *chroma_db/
+*.bin
 
 .DS_Store
 
